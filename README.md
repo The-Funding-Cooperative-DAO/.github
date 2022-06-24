@@ -1,5 +1,7 @@
 
-# The Funding Cooperative DAO ![logo](https://user-images.githubusercontent.com/101847688/175663112-2f16f5c8-e91e-40fb-8f8e-e1e9510e7b45.png)
+![logo](https://user-images.githubusercontent.com/101847688/175663112-2f16f5c8-e91e-40fb-8f8e-e1e9510e7b45.png)
+
+# The Funding Cooperative DAO 
 
 [![Issues](https://img.shields.io/github/issues/The-Funding-Cooperative-DAO/docs)](https://github.com/issues)
 
