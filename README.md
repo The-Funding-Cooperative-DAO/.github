@@ -3,8 +3,7 @@
  <img src="https://user-images.githubusercontent.com/101847688/175663112-2f16f5c8-e91e-40fb-8f8e-e1e9510e7b45.png">
 </p>
 
-<h1 align="center">Material Bread</h1>
-# The Funding Cooperative DAO 
+<h1 align="center">The Funding Cooperative DAO</h1>
 
 [![Issues](https://img.shields.io/github/issues/The-Funding-Cooperative-DAO/docs)](https://github.com/issues)
 
