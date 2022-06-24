@@ -1,5 +1,5 @@
 
-# The Funding Cooperative DAO
+# The Funding Cooperative DAO ![logo](https://user-images.githubusercontent.com/101847688/175663112-2f16f5c8-e91e-40fb-8f8e-e1e9510e7b45.png)
 
 [![Issues](https://img.shields.io/github/issues/The-Funding-Cooperative-DAO/docs)](https://github.com/issues)
 
@@ -14,7 +14,6 @@ we can help to find and welcome > 1 million founders to web3.
  
 
 - [Staking](https://github.com/The-Funding-Cooperative-DAO/StakingToken) contracts are being developed to build cross-governance within the Funding Cooperative community.
-
 
 
 ## Acknowledgements
