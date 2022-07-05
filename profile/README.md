@@ -14,7 +14,7 @@ We are growing communities of DAOs via indexing, outreach, & funding.
 By building a community-owned public good for the radically inclusive funding of all qualified innovators,
 we can help to find and welcome > 1 million founders to web3.
 
-[![Watch the video](https://img.youtube.com/vi/T-D1KVIuvjA/maxresdefault.jpg)](https://youtu.be/T-D1KVIuvjA)
+[![Watch the video](https://img.youtube.com/vi/pKkORzVEQ9s/maxresdefault.jpg)](https://youtu.be/pKkORzVEQ9s)
 
 ## Buidl
 
