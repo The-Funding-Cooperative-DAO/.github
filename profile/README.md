@@ -14,6 +14,9 @@ We are growing communities of DAOs via indexing, outreach, & funding.
 By building a community-owned public good for the radically inclusive funding of all qualified innovators,
 we can help to find and welcome > 1 million founders to web3.
 
+## Video introduction
+Got 2 minutes? Check out a video overview of our mission and approach:
+
 [![YouTube Video Views](https://img.shields.io/badge/youtube-The_Funding_Cooperative-red)](https://www.youtube.com/video/pKkORzVEQ9s)
 
 ## Buidl
