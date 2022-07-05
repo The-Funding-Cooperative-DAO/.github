@@ -14,6 +14,8 @@ We are growing communities of DAOs via indexing, outreach, & funding.
 By building a community-owned public good for the radically inclusive funding of all qualified innovators,
 we can help to find and welcome > 1 million founders to web3.
 
+![YouTube Video Views](https://img.shields.io/youtube/views/pKkORzVEQ9s?label=FCDAO&style=social)
+
 ## Buidl
 
 - Airdrop V1 coming soon! See the [Airdrop](https://github.com/The-Funding-Cooperative-DAO/Merkle-Airdrop-Site) repo.
