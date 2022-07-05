@@ -3,14 +3,17 @@
  <img src="https://user-images.githubusercontent.com/101847688/175663112-2f16f5c8-e91e-40fb-8f8e-e1e9510e7b45.png">
 </p>
 
-<h1 align="center">The Funding Cooperative DAO</h1>
+<h1 align="center">💡 The Funding Cooperative DAO</h1>
 
 [![Issues](https://img.shields.io/github/issues/The-Funding-Cooperative-DAO/docs)](https://github.com/issues)
+
+The Funding Cooperative DAO is a new approach to help founders while increasing dramatically the number of qualified web3 founders. Founders and DAOs accepted as members of the Funding Cooperative DAO receive a shared token in return for a small portion of their tokens. This creates diversification, jump-starts community creation, and provides some liquidity as well. Gains are recycled into outreach and education, focusing especially on underrepresented groups.
 
 We are growing communities of DAOs via indexing, outreach, & funding.
 
 By building a community-owned public good for the radically inclusive funding of all qualified innovators,
 we can help to find and welcome > 1 million founders to web3.
+
 ## Buidl
 
 - Airdrop V1 coming soon! See the [Airdrop](https://github.com/The-Funding-Cooperative-DAO/Merkle-Airdrop-Site) repo.
