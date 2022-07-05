@@ -14,7 +14,7 @@ We are growing communities of DAOs via indexing, outreach, & funding.
 By building a community-owned public good for the radically inclusive funding of all qualified innovators,
 we can help to find and welcome > 1 million founders to web3.
 
-<img alt="YouTube Video Views" src=["https://img.shields.io/youtube/views/pKkORzVEQ9s?label=FCDAO&style=social"](https://www.youtube.com/video/pKkORzVEQ9s)>
+<img alt="YouTube Video Views" src="https://www.youtube.com/video/pKkORzVEQ9s">
 
 ## Buidl
 
