@@ -42,9 +42,9 @@ For support, please join our [Discord](https://discord.gg/qHntazBA) channel.
 
 Contributions are always welcome!
 
-See `contributing.md` for ways to get started.
+See [contributing.md](https://github.com/The-Funding-Cooperative-DAO/docs/blob/main/CONTRIBUTING.md) for ways to get started.
 
-Please adhere to this project's `code of conduct`.
+Please adhere to this project's [code of conduct](https://github.com/The-Funding-Cooperative-DAO/docs/blob/main/CODE_OF_CONDUCT.md).
 
 
 ## Licenses
