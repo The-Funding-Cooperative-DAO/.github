@@ -21,8 +21,8 @@ Got 2 minutes? Check out a video overview of our mission and approach:
 
 ## Buidl
 
+- [MTOTM](https://github.com/The-Funding-Cooperative-DAO/MTOTM) Many-to-One-to-Many, is in devolpment to serve both the Funding Cooperative and any community interested in meta-governance with the use of shared tokens
 - Airdrop V1 coming soon! See the [Airdrop](https://github.com/The-Funding-Cooperative-DAO/Merkle-Airdrop-Site) repo.
-- Currently alpha testing our index raise, check it out and send some Rinkeby ETH to our [Project](https://rinkeby.juicebox.money/#/v2/p/4113).
  
 
 - [Staking](https://github.com/The-Funding-Cooperative-DAO/StakingToken) contracts are being developed to build cross-governance within the Funding Cooperative community.
